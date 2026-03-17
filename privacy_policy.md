@@ -1,0 +1,54 @@
+**Privacy Policy for Brick Blast Mania**
+
+
+Thank you for playing Brick Blast Mania. Your privacy is important to us.
+
+## 1. Information We Collect
+
+We do not collect any personal information from users.
+
+However, the app may collect:
+
+* Device information (such as device type, OS version)
+* Anonymous usage data for improving gameplay experience
+
+## 2. How We Use Information
+
+The collected information is used to:
+
+* Improve game performance
+* Fix bugs and crashes
+* Enhance user experience
+
+## 3. Third-Party Services
+
+Our app may use third-party services such as:
+
+* Google Play Services
+
+These services may collect information as per their own privacy policies.
+
+## 4. Ads (if applicable)
+
+If the app uses advertisements, ad providers may collect anonymous data to show relevant ads.
+
+## 5. Data Security
+
+We do not store or share any personal user data.
+
+## 6. Children’s Privacy
+
+This app does not knowingly collect personal information from children.
+
+## 7. Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+
+## 8. Contact Us
+
+If you have any questions, contact us at:
+rakeshdas1040@gmail.com
+
+---
+
+**By using this app, you agree to this Privacy Policy.**
